@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hyundai V800",
+        "type": "Petrol",
+        "price": 560000,
+        "image": "https:\/\/shorturl.at\/Kn893z"
+    },
+    {
+        "name": "Toyota",
+        "type": "Diesel",
+        "price": 5600100,
+        "image": "https:\/\/shorturl.at\/Kn893z"
+    },
+    {
+        "name": "Audi",
+        "type": "Electric",
+        "price": 560000,
+        "image": "https:\/\/shorturl.at\/Kn893z"
+    }
+]
